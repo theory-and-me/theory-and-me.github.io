@@ -1,0 +1,83 @@
+body {
+    font-family: "Helvetica Neue",
+      Arial,
+      "Hiragino Kaku Gothic ProN",
+      "Hiragino Sans",
+      Meiryo,
+      sans-serif;
+  }
+
+div#introduction > h1 {
+    margin-top: 40px;
+    color: #555;
+    text-align: center;
+    margin-bottom: 40px;
+  }
+
+div#contents{
+    color: #555;
+    margin-left: 20px;
+    font-size: large;
+}
+
+#introduction .image_rounded{
+    padding-top: 20px;
+    text-align: center;
+}
+
+#introduction p{
+    color: #555;
+    font-size: large;
+    text-align: center;
+}
+
+#publication{
+    color: #555;
+    margin: 30px 0 15px;
+  }
+
+
+h2{
+    text-decoration:underline;
+}
+
+#publication ol li{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#publication li a{
+    font-weight: bolder;
+}
+
+#publication li span{
+    font-weight: bolder;
+}
+
+#work_experience{
+    color: #555;
+    margin: 20px 0 15px;
+  }
+
+#work_experience ul li{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#work_experience li span#job{
+    font-weight: bolder;
+}
+
+#education{
+    color: #555;
+    margin: 20px 0 15px;
+  }
+
+#education ul li{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#education li span#degree{
+    font-weight: bolder;
+}
