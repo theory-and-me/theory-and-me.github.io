@@ -21,8 +21,7 @@ div#contents{
 }
 
 #introduction .image_rounded{
-    margin-top: 50px;
-    padding-top: 20px;
+    margin-top: 70px;
     text-align: center;
 }
 
@@ -81,4 +80,26 @@ h2{
 
 #education li span.degree{
     font-weight: bolder;
+}
+
+#certification ul li{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#other ul li{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#other{
+    margin-bottom: 20px;
+}
+
+footer{
+    background-color: #333;
+    color: #ffffff;
+    text-align: center;
+    position: absolute;
+    width: 100%;
 }
