@@ -64,7 +64,7 @@ h2{
     padding-bottom: 5px;
 }
 
-#work_experience li span#job{
+#work_experience li span.job{
     font-weight: bolder;
 }
 
@@ -78,6 +78,6 @@ h2{
     padding-bottom: 5px;
 }
 
-#education li span#degree{
+#education li span.degree{
     font-weight: bolder;
 }
