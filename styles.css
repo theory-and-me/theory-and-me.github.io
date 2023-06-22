@@ -59,7 +59,7 @@ h2{
     padding-bottom: 5px;
 }
 
-#presentation li span.presentation_title{
+#presentation li a{
     font-weight: bolder;
 }
 
