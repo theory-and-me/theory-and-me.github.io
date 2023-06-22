@@ -54,6 +54,15 @@ h2{
     font-weight: bolder;
 }
 
+#presentation ol li{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#presentation li a{
+    font-weight: bolder;
+}
+
 #presentation li span.presentation{
     font-weight: bolder;
 }
