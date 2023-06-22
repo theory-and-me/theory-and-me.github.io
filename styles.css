@@ -54,6 +54,10 @@ h2{
     font-weight: bolder;
 }
 
+#presentation li span.presentation{
+    font-weight: bolder;
+}
+
 #work_experience{
     color: #555;
     margin: 20px 0 15px;
